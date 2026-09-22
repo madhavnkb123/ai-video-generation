@@ -1,0 +1,5 @@
+CHARACTER ID: ARJUN_01
+
+Arjun is a 28-year-old Indian man with medium-brown skin, short neatly styled black hair, dark brown eyes, oval face, neatly trimmed short beard, athletic build, approximately 178 cm tall. He wears a navy-blue casual shirt, black trousers, white sneakers and a black smartwatch.
+
+Maintain exactly the same face, hair, beard, skin tone, body proportions, clothing, age and accessories across every scene. Character consistency is critical.
